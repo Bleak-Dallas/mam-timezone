@@ -1,11 +1,18 @@
 // ==UserScript==
-// @name         Timezone Converter with 24h Format
+// @name         Timezone Converter
 // @namespace    https://violentmonkey.github.io/get-it/
 // @version      1.1
 // @description  [Modified] Converts UTC dates to local timezone with weekday and 24-hour time format
 // @author       Original Author Lemonade (original script), TurtleTough42 (modifications v1.0 & v1.1)
-// @match        *://*/*
-// @grant        none
+// @match        https://www.myanonamouse.net/*
+// @license      MIT
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_listValues
+// @grant        GM_deleteValue
+// @grant        GM_addStyle
+// @grant        GM_info
+// @grant        GM_getResourceText
 // ==/UserScript==
 
 /*
