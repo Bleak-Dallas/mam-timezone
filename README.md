@@ -18,7 +18,7 @@ A **UserScript** that converts UTC timestamps on web pages to your local timezon
    - [Greasemonkey](https://www.greasespot.net/)  
   
 2. Add the script to your UserScript manager:  
-   - Copy the code from [timezone-converter.user.js](./timezone-converter.user.js) (or the raw script file).  
+   - Copy the code from [mam-timezone.js](./mam-timezone.js) (or the raw script file).  
    - Create a new script in your UserScript manager and paste the code.  
   
 3. Save and enable the script.  
