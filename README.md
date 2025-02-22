@@ -1,4 +1,4 @@
-# 🌍 Timezone Converter with 24h Format Userscript
+# 🌍 Timezone Converter
 
 A **UserScript** that converts UTC timestamps on web pages to your local timezone, displaying the day of the week and using a 24-hour time format. This script is ideal for users who frequently encounter UTC timestamps and want them automatically adjusted to their local time.  
   
